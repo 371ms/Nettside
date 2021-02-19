@@ -1,0 +1,15 @@
+.text {
+  display: table;
+  margin: 0 auto;
+  font-size: 32px;
+}
+
+#btn {
+  display: table;
+  margin: 0 auto;
+}
+
+#textBar {
+  display: table;
+  margin: 0 auto;
+}
